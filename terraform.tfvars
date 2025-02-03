@@ -1,3 +1,3 @@
-dev_account_email = "jkessie98@gmail.com"
+dev_account_email = "j"
 
-prod_account_email = "jeffkessie50@gmail.com"
+prod_account_email = ""
